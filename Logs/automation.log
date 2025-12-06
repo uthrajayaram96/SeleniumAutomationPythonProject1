@@ -1,0 +1,46 @@
+[2025-12-04 09:46:43] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-04 09:46:44] INFO - Actual title matches the expected title
+[2025-12-04 09:46:46] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-04 09:46:47] INFO - ************* Start TC002_test_login *********
+[2025-12-04 09:46:48] INFO - Entering user email
+[2025-12-04 09:46:48] INFO - Entering password
+[2025-12-04 09:46:48] INFO - Clicking on the Login button
+[2025-12-04 09:46:48] INFO - Login Failed
+[2025-12-04 09:46:48] INFO - Actual title does not match the expected title
+[2025-12-04 09:50:36] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-04 09:50:37] INFO - Actual title matches the expected title
+[2025-12-04 09:50:39] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-04 09:50:40] INFO - ************* Start TC002_test_login *********
+[2025-12-04 09:50:41] INFO - Entering user email
+[2025-12-04 09:50:41] INFO - Entering password
+[2025-12-04 09:50:41] INFO - Clicking on the Login button
+[2025-12-04 09:50:42] ERROR - Login Failed
+[2025-12-04 09:50:42] ERROR - Actual title does not match the expected title
+[2025-12-04 10:26:31] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-04 10:26:32] INFO - Actual title matches the expected title
+[2025-12-04 10:26:34] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-04 10:26:35] INFO - ************* Start TC002_test_login *********
+[2025-12-04 10:26:35] INFO - Entering user email
+[2025-12-04 10:26:36] INFO - Entering password
+[2025-12-04 10:26:36] INFO - Clicking on the Login button
+[2025-12-04 10:26:36] ERROR - Login Failed
+[2025-12-04 10:26:36] ERROR - Actual title does not match the expected title
+[2025-12-04 10:28:03] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-04 10:28:03] INFO - Actual title matches the expected title
+[2025-12-04 10:28:06] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-04 10:28:12] INFO - ************* Start TC002_test_login *********
+[2025-12-04 10:28:13] INFO - Entering user email
+[2025-12-04 10:28:14] INFO - Entering password
+[2025-12-04 10:28:14] INFO - Clicking on the Login button
+[2025-12-04 10:28:14] ERROR - Login Failed
+[2025-12-04 10:28:14] ERROR - Actual title does not match the expected title
+[2025-12-04 10:30:54] INFO - patching driver executable C:\Users\uthra\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[2025-12-04 11:22:44] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-04 11:22:44] INFO - ************* Start TC002_test_login *********
+[2025-12-04 11:22:45] INFO - Entering user email
+[2025-12-04 11:22:45] INFO - Actual title matches the expected title
+[2025-12-04 11:22:45] INFO - Entering password
+[2025-12-04 11:22:45] INFO - Clicking on the Login button
+[2025-12-04 11:22:46] ERROR - Login Failed
+[2025-12-04 11:22:46] ERROR - Actual title does not match the expected title
+[2025-12-04 11:22:47] INFO - ************* End TC001_test_homepage_title ***********
