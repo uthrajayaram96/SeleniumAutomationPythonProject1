@@ -9,10 +9,9 @@ class LoginPage:
     user_email_id = 'Email'
     user_password_id = 'Password'
     login_button_xpath = '//button[contains(@class,"login-button")]'
-    logout_button_lnkText = 'Logout'
 
     # Constructor
-    def __init__(self,driver):
+    def __init__(self, driver):
         self.driver = driver
 
     # Action methods
@@ -26,9 +25,6 @@ class LoginPage:
 
     def click_login_btn(self):
         self.driver.find_element(By.XPATH, self.login_button_xpath).click()
-
-    def click_logout_btn(self):
-        self.driver.find_element(By.LINK_TEXT, self.logout_button_lnkText).click()
 
 
 
