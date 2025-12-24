@@ -44,3 +44,413 @@
 [2025-12-04 11:22:46] ERROR - Login Failed
 [2025-12-04 11:22:46] ERROR - Actual title does not match the expected title
 [2025-12-04 11:22:47] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-09 18:23:25] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-09 18:23:25] INFO - ************* Start TC002_test_login *********
+[2025-12-09 18:23:26] INFO - Entering user email
+[2025-12-09 18:23:26] INFO - Actual title matches the expected title
+[2025-12-09 18:23:26] INFO - Entering password
+[2025-12-09 18:23:27] INFO - Clicking on the Login button
+[2025-12-09 18:23:27] ERROR - Login Failed
+[2025-12-09 18:23:27] ERROR - Actual title does not match the expected title
+[2025-12-09 18:23:29] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-09 18:24:37] INFO - patching driver executable C:\Users\uthra\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[2025-12-09 18:25:24] INFO - patching driver executable C:\Users\uthra\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[2025-12-09 18:25:31] INFO - patching driver executable C:\Users\uthra\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[2025-12-09 18:34:11] INFO - patching driver executable C:\Users\uthra\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[2025-12-09 18:34:18] INFO - patching driver executable C:\Users\uthra\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[2025-12-09 18:35:56] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-09 18:35:56] INFO - Actual title matches the expected title
+[2025-12-09 18:35:58] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-09 18:36:00] INFO - ************* Start TC002_test_login *********
+[2025-12-09 18:36:01] INFO - Entering user email
+[2025-12-09 18:36:02] INFO - Entering password
+[2025-12-09 18:36:02] INFO - Clicking on the Login button
+[2025-12-09 18:36:02] ERROR - Login Failed
+[2025-12-09 18:36:02] ERROR - Actual title does not match the expected title
+[2025-12-09 18:47:34] INFO - patching driver executable C:\Users\uthra\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[2025-12-09 18:47:41] INFO - patching driver executable C:\Users\uthra\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[2025-12-09 18:49:51] INFO - patching driver executable C:\Users\uthra\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[2025-12-09 18:49:58] INFO - patching driver executable C:\Users\uthra\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[2025-12-10 09:28:28] INFO - patching driver executable C:\Users\uthra\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[2025-12-10 09:28:35] INFO - patching driver executable C:\Users\uthra\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[2025-12-10 09:32:27] WARNING - There was an error managing msedgedriver (error decoding response body); using driver found in the cache
+[2025-12-10 09:32:28] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-10 09:32:29] INFO - Actual title matches the expected title
+[2025-12-10 09:32:31] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-10 09:32:34] INFO - ************* Start TC002_test_login *********
+[2025-12-10 09:32:35] INFO - Entering user email
+[2025-12-10 09:32:36] INFO - Entering password
+[2025-12-10 09:32:36] INFO - Clicking on the Login button
+[2025-12-10 09:32:36] ERROR - Login Failed
+[2025-12-10 09:32:36] ERROR - Actual title does not match the expected title
+[2025-12-10 09:41:30] INFO - ====== WebDriver manager ======
+[2025-12-10 09:41:31] INFO - Get LATEST chromedriver version for google-chrome
+[2025-12-10 09:41:31] INFO - Get LATEST chromedriver version for google-chrome
+[2025-12-10 09:41:31] INFO - There is no [win64] chromedriver "142.0.7444.175" for browser google-chrome "142.0.7444" in cache
+[2025-12-10 09:41:31] INFO - Get LATEST chromedriver version for google-chrome
+[2025-12-10 09:41:32] INFO - WebDriver version 142.0.7444.175 selected
+[2025-12-10 09:41:32] INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+[2025-12-10 09:41:32] INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+[2025-12-10 09:41:32] INFO - Driver downloading response is 200
+[2025-12-10 09:41:32] INFO - Get LATEST chromedriver version for google-chrome
+[2025-12-10 09:41:33] INFO - Driver has been saved in cache [C:\Users\uthra\.wdm\drivers\chromedriver\win64\142.0.7444.175]
+[2025-12-10 09:41:35] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-10 09:41:36] INFO - Actual title matches the expected title
+[2025-12-10 09:41:39] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-10 09:41:39] INFO - ====== WebDriver manager ======
+[2025-12-10 09:41:40] INFO - Get LATEST chromedriver version for google-chrome
+[2025-12-10 09:41:40] INFO - Get LATEST chromedriver version for google-chrome
+[2025-12-10 09:41:40] INFO - Driver [C:\Users\uthra\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[2025-12-10 09:41:41] INFO - ************* Start TC002_test_login *********
+[2025-12-10 09:41:41] INFO - Entering user email
+[2025-12-10 09:41:42] INFO - Entering password
+[2025-12-10 09:41:42] INFO - Clicking on the Login button
+[2025-12-10 09:41:43] ERROR - Login Failed
+[2025-12-10 09:41:43] ERROR - Actual title does not match the expected title
+[2025-12-10 09:48:56] INFO - patching driver executable C:\Users\uthra\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[2025-12-10 09:49:06] INFO - patching driver executable C:\Users\uthra\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[2025-12-10 12:00:42] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-10 12:00:48] INFO - Actual title matches the expected title
+[2025-12-10 12:00:50] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-10 12:00:54] INFO - ************* Start TC002_test_login *********
+[2025-12-10 12:00:59] INFO - Entering user email
+[2025-12-10 12:00:59] INFO - Entering password
+[2025-12-10 12:00:59] INFO - Clicking on the Login button
+[2025-12-10 12:01:07] INFO - Login Successful
+[2025-12-10 12:01:07] INFO - Actual title matches the expected title
+[2025-12-10 12:01:10] INFO - ************* End TC002_test_login ***********
+[2025-12-10 12:02:52] WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_143_WINDOWS)); using driver found in the cache
+[2025-12-10 12:02:53] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-10 12:02:54] INFO - Actual title matches the expected title
+[2025-12-10 12:02:56] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-10 12:02:56] WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_143_WINDOWS)); using driver found in the cache
+[2025-12-10 12:02:57] INFO - ************* Start TC002_test_login *********
+[2025-12-10 12:02:58] INFO - Entering user email
+[2025-12-10 12:02:58] INFO - Entering password
+[2025-12-10 12:02:59] INFO - Clicking on the Login button
+[2025-12-10 12:07:26] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-10 12:07:27] INFO - Actual title matches the expected title
+[2025-12-10 12:07:30] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-10 12:07:31] INFO - ************* Start TC002_test_login *********
+[2025-12-10 12:07:32] INFO - Entering user email
+[2025-12-10 12:07:32] INFO - Entering password
+[2025-12-10 12:07:32] INFO - Clicking on the Login button
+[2025-12-10 12:35:17] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-10 12:35:23] INFO - Actual title matches the expected title
+[2025-12-10 12:35:25] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-10 12:35:28] INFO - ************* Start TC002_test_login *********
+[2025-12-10 12:35:35] INFO - Entering user email
+[2025-12-10 12:35:35] INFO - Entering password
+[2025-12-10 12:35:35] INFO - Clicking on the Login button
+[2025-12-10 12:35:44] INFO - Login Successful
+[2025-12-10 12:35:44] INFO - Actual title matches the expected title
+[2025-12-10 12:35:47] INFO - ************* End TC002_test_login ***********
+[2025-12-10 12:59:01] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-10 12:59:04] INFO - ************* Start TC002_test_login *********
+[2025-12-10 12:59:10] INFO - Entering user email
+[2025-12-10 12:59:11] INFO - Entering password
+[2025-12-10 12:59:11] INFO - Clicking on the Login button
+[2025-12-10 12:59:12] INFO - Login Successful
+[2025-12-10 12:59:12] INFO - Actual title matches the expected title
+[2025-12-10 12:59:14] INFO - ************* End TC002_test_login ***********
+[2025-12-10 13:00:26] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-10 13:00:31] INFO - Actual title matches the expected title
+[2025-12-10 13:00:34] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-10 13:00:37] INFO - ************* Start TC002_test_login *********
+[2025-12-10 13:00:44] INFO - Entering user email
+[2025-12-10 13:00:44] INFO - Entering password
+[2025-12-10 13:00:44] INFO - Clicking on the Login button
+[2025-12-10 13:00:45] INFO - Login Successful
+[2025-12-10 13:00:45] INFO - Actual title matches the expected title
+[2025-12-10 13:00:47] INFO - ************* End TC002_test_login ***********
+[2025-12-12 11:32:07] INFO - ************* Start TC003_test_login_ddt *********
+[2025-12-12 11:35:46] INFO - ************* Start TC003_test_login_ddt *********
+[2025-12-12 11:35:53] INFO - Entering user email
+[2025-12-12 11:35:53] INFO - Entering password
+[2025-12-12 11:35:53] INFO - Clicking on the Login button
+[2025-12-12 11:35:54] INFO - Login Successful
+[2025-12-12 11:35:54] INFO - Actual title matches the expected title
+[2025-12-12 11:35:55] INFO - Logining out....
+[2025-12-12 11:35:55] INFO - Entering user email
+[2025-12-12 11:35:55] INFO - Entering password
+[2025-12-12 11:35:55] INFO - Clicking on the Login button
+[2025-12-12 11:35:55] INFO - Cannot log in with incorrect credentials.
+[2025-12-12 11:35:55] INFO - Entering user email
+[2025-12-12 11:35:55] INFO - Entering password
+[2025-12-12 11:35:55] INFO - Clicking on the Login button
+[2025-12-12 11:35:56] INFO - Cannot log in with incorrect credentials.
+[2025-12-12 11:35:56] INFO - Entering user email
+[2025-12-12 11:35:56] INFO - Entering password
+[2025-12-12 11:35:56] INFO - Clicking on the Login button
+[2025-12-12 11:35:56] INFO - Cannot log in with incorrect credentials.
+[2025-12-12 11:35:58] INFO - ************* End TC002_test_login ***********
+[2025-12-21 09:09:39] INFO - ************* Start TC003_test_login_ddt *********
+[2025-12-21 09:09:46] INFO - Entering user email
+[2025-12-21 09:09:46] INFO - Entering password
+[2025-12-21 09:09:46] INFO - Clicking on the Login button
+[2025-12-21 09:09:47] INFO - Login Successful
+[2025-12-21 09:09:47] INFO - Actual title matches the expected title
+[2025-12-21 09:09:48] INFO - Logging out....
+[2025-12-21 09:09:48] INFO - Entering user email
+[2025-12-21 09:09:48] INFO - Entering password
+[2025-12-21 09:09:48] INFO - Clicking on the Login button
+[2025-12-21 09:09:49] INFO - Cannot log in with incorrect credentials.
+[2025-12-21 09:09:49] INFO - Entering user email
+[2025-12-21 09:09:49] INFO - Entering password
+[2025-12-21 09:09:49] INFO - Clicking on the Login button
+[2025-12-21 09:09:50] INFO - Cannot log in with incorrect credentials.
+[2025-12-21 09:09:50] INFO - Entering user email
+[2025-12-21 09:09:50] INFO - Entering password
+[2025-12-21 09:09:50] INFO - Clicking on the Login button
+[2025-12-21 09:09:50] INFO - Cannot log in with incorrect credentials.
+[2025-12-21 09:09:53] INFO - ************* End TC003_test_login_ddt ***********
+[2025-12-21 09:32:25] INFO - ************* Start TC003_test_login_ddt *********
+[2025-12-21 09:32:32] INFO - Entering user email
+[2025-12-21 09:32:32] INFO - Entering password
+[2025-12-21 09:32:32] INFO - Clicking on the Login button
+[2025-12-21 09:32:33] INFO - Login Successful
+[2025-12-21 09:32:33] INFO - Actual title matches the expected title
+[2025-12-21 09:32:34] INFO - Logging out....
+[2025-12-21 09:32:34] INFO - Entering user email
+[2025-12-21 09:32:34] INFO - Entering password
+[2025-12-21 09:32:34] INFO - Clicking on the Login button
+[2025-12-21 09:32:35] INFO - Cannot log in with incorrect credentials.
+[2025-12-21 09:32:35] INFO - Entering user email
+[2025-12-21 09:32:35] INFO - Entering password
+[2025-12-21 09:32:35] INFO - Clicking on the Login button
+[2025-12-21 09:32:35] INFO - Cannot log in with incorrect credentials.
+[2025-12-21 09:32:35] INFO - Entering user email
+[2025-12-21 09:32:35] INFO - Entering password
+[2025-12-21 09:32:36] INFO - Clicking on the Login button
+[2025-12-21 09:32:36] INFO - Cannot log in with incorrect credentials.
+[2025-12-21 09:32:39] INFO - ************* End TC003_test_login_ddt ***********
+[2025-12-21 09:33:29] INFO - ************* Start TC002_test_login *********
+[2025-12-21 09:33:29] INFO - ************* Start TC002_test_login *********
+[2025-12-21 09:33:29] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-21 09:33:29] INFO - ************* Start TC001_test_homepage_title *********
+[2025-12-21 09:33:30] INFO - Actual title matches the expected title
+[2025-12-21 09:33:30] INFO - Actual title matches the expected title
+[2025-12-21 09:33:33] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-21 09:33:33] INFO - ************* End TC001_test_homepage_title ***********
+[2025-12-21 09:33:34] INFO - ************* Start TC003_test_login_ddt *********
+[2025-12-21 09:33:34] INFO - ************* Start TC003_test_login_ddt *********
+[2025-12-21 10:17:47] INFO - ************* Start TC003_test_login_ddt *********
+[2025-12-21 10:17:53] INFO - Entering user email
+[2025-12-21 10:17:54] INFO - Entering password
+[2025-12-21 10:17:54] INFO - Clicking on the Login button
+[2025-12-21 10:17:55] INFO - Login Successful
+[2025-12-21 10:17:55] INFO - Actual title matches the expected title
+[2025-12-21 10:17:56] INFO - Logging out....
+[2025-12-21 10:17:56] INFO - Entering user email
+[2025-12-21 10:17:56] INFO - Entering password
+[2025-12-21 10:17:56] INFO - Clicking on the Login button
+[2025-12-21 10:17:56] INFO - Cannot log in with incorrect credentials.
+[2025-12-21 10:17:56] INFO - Entering user email
+[2025-12-21 10:17:57] INFO - Entering password
+[2025-12-21 10:17:57] INFO - Clicking on the Login button
+[2025-12-21 10:17:57] INFO - Cannot log in with incorrect credentials.
+[2025-12-21 10:17:57] INFO - Entering user email
+[2025-12-21 10:17:57] INFO - Entering password
+[2025-12-21 10:17:57] INFO - Clicking on the Login button
+[2025-12-21 10:17:58] INFO - Cannot log in with incorrect credentials.
+[2025-12-21 10:18:00] INFO - ************* End TC003_test_login_ddt ***********
+[2025-12-23 13:26:08] INFO - 
+--- Logging in ---
+[2025-12-23 13:26:15] INFO - ************* Start TC003_test_add_new_customer *********
+[2025-12-23 13:26:56] INFO - ************* Start TC002_test_login_ddt *********
+[2025-12-23 13:27:03] INFO - Entering user email
+[2025-12-23 13:27:03] INFO - Entering password
+[2025-12-23 13:27:03] INFO - Clicking on the Login button
+[2025-12-23 13:27:04] INFO - Login Successful
+[2025-12-23 13:27:04] INFO - Actual title matches the expected title
+[2025-12-23 13:27:05] INFO - Logging out....
+[2025-12-23 13:27:05] INFO - Entering user email
+[2025-12-23 13:27:05] INFO - Entering password
+[2025-12-23 13:27:05] INFO - Clicking on the Login button
+[2025-12-23 13:27:05] INFO - Cannot log in with incorrect credentials.
+[2025-12-23 13:27:05] INFO - Entering user email
+[2025-12-23 13:27:05] INFO - Entering password
+[2025-12-23 13:27:05] INFO - Clicking on the Login button
+[2025-12-23 13:27:06] INFO - Cannot log in with incorrect credentials.
+[2025-12-23 13:27:06] INFO - Entering user email
+[2025-12-23 13:27:06] INFO - Entering password
+[2025-12-23 13:27:06] INFO - Clicking on the Login button
+[2025-12-23 13:27:06] INFO - Cannot log in with incorrect credentials.
+[2025-12-23 13:27:08] INFO - ************* End TC003_test_login_ddt ***********
+[2025-12-23 13:30:29] INFO - 
+--- Logging in ---
+[2025-12-23 13:30:35] INFO - ************* Start TC003_test_add_new_customer *********
+[2025-12-23 14:17:32] INFO - ************* Start TC003_test_add_new_customer *********
+[2025-12-23 14:17:39] INFO - 
+--- Logging in ---
+[2025-12-23 14:17:39] INFO - Entering user email
+[2025-12-23 14:17:39] INFO - Entering password
+[2025-12-23 14:17:39] INFO - Clicking on the Login button
+[2025-12-23 14:17:39] INFO - 
+--- Clicking on Customers option from the dashboard ---
+[2025-12-23 14:17:41] INFO - 
+--- Clicking on Customers sub option under Customers option ---
+[2025-12-23 14:50:49] INFO - ************* Start TC003_test_add_new_customer *********
+[2025-12-23 14:50:55] INFO - 
+--- Logging in ---
+[2025-12-23 14:50:55] INFO - Entering user email
+[2025-12-23 14:50:56] INFO - Entering password
+[2025-12-23 14:50:56] INFO - Clicking on the Login button
+[2025-12-23 14:50:57] INFO - 
+--- Clicking on Customers option from the dashboard ---
+[2025-12-23 14:50:57] INFO - 
+--- Clicking on Customers sub option under Customers option ---
+[2025-12-23 14:50:57] INFO - 
+--- Adding/creating new customer details ---
+[2025-12-23 14:57:34] INFO - ************* Start TC003_test_add_new_customer *********
+[2025-12-23 14:57:41] INFO - 
+--- Logging in ---
+[2025-12-23 14:57:41] INFO - Entering user email
+[2025-12-23 14:57:41] INFO - Entering password
+[2025-12-23 14:57:41] INFO - Clicking on the Login button
+[2025-12-23 14:57:42] INFO - 
+--- Clicking on Customers option from the dashboard ---
+[2025-12-23 14:57:42] INFO - 
+--- Clicking on Customers sub option under Customers option ---
+[2025-12-23 14:57:42] INFO - 
+--- Adding/creating new customer details ---
+[2025-12-23 14:57:44] INFO - Added new customer details!
+[2025-12-23 14:57:44] INFO - 
+--- Logging out ---
+[2025-12-23 14:57:47] INFO - ************* End TC003_test_add_new_customer ***********
+[2025-12-23 15:01:02] INFO - ************* Start TC003_test_add_new_customer *********
+[2025-12-23 15:01:09] INFO - 
+--- Logging in ---
+[2025-12-23 15:01:09] INFO - Entering user email
+[2025-12-23 15:01:09] INFO - Entering password
+[2025-12-23 15:01:09] INFO - Clicking on the Login button
+[2025-12-23 15:01:10] INFO - 
+--- Clicking on Customers option from the dashboard ---
+[2025-12-23 15:01:11] INFO - 
+--- Clicking on Customers sub option under Customers option ---
+[2025-12-23 15:01:11] INFO - 
+--- Adding/creating new customer details ---
+[2025-12-23 15:01:13] INFO - Added new customer details!
+[2025-12-23 15:01:13] INFO - 
+--- Logging out ---
+[2025-12-23 15:01:16] INFO - ************* End TC003_test_add_new_customer ***********
+[2025-12-23 15:15:35] INFO - ************* Start TC003_test_add_new_customer *********
+[2025-12-23 15:15:42] INFO - 
+--- Logging in ---
+[2025-12-23 15:15:42] INFO - Entering user email
+[2025-12-23 15:15:42] INFO - Entering password
+[2025-12-23 15:15:42] INFO - Clicking on the Login button
+[2025-12-23 15:15:43] INFO - 
+--- Clicking on Customers option from the dashboard ---
+[2025-12-23 15:15:43] INFO - 
+--- Clicking on Customers sub option under Customers option ---
+[2025-12-23 15:15:44] INFO - 
+--- Adding/creating new customer details ---
+[2025-12-23 15:15:46] INFO - Added new customer details!
+[2025-12-23 15:15:46] INFO - 
+--- Logging out ---
+[2025-12-23 15:15:49] INFO - ************* End TC003_test_add_new_customer ***********
+[2025-12-23 16:03:00] INFO - ************* Start TC003_test_add_new_customer *********
+[2025-12-23 16:03:07] INFO - 
+--- Logging in ---
+[2025-12-23 16:03:07] INFO - Entering user email
+[2025-12-23 16:03:07] INFO - Entering password
+[2025-12-23 16:03:07] INFO - Clicking on the Login button
+[2025-12-23 16:03:08] INFO - 
+--- Clicking on Customers option from the dashboard ---
+[2025-12-23 16:03:08] INFO - 
+--- Clicking on Customers sub option under Customers option ---
+[2025-12-23 16:03:08] INFO - 
+--- Adding/creating new customer details ---
+[2025-12-23 16:37:24] INFO - ************* Start TC003_test_add_new_customer *********
+[2025-12-23 16:37:31] INFO - 
+--- Logging in ---
+[2025-12-23 16:37:31] INFO - Entering user email
+[2025-12-23 16:37:31] INFO - Entering password
+[2025-12-23 16:37:31] INFO - Clicking on the Login button
+[2025-12-23 16:37:31] INFO - 
+--- Clicking on Customers option from the dashboard ---
+[2025-12-23 16:37:33] INFO - 
+--- Clicking on Customers sub option under Customers option ---
+[2025-12-23 16:37:33] INFO - 
+--- Adding/creating new customer details ---
+[2025-12-23 16:37:35] INFO - Added new customer details!
+[2025-12-23 16:37:35] INFO - 
+--- Logging out ---
+[2025-12-23 16:37:38] INFO - ************* End TC003_test_add_new_customer ***********
+[2025-12-24 09:56:01] INFO - ************* Start TC003_test_add_new_customer *********
+[2025-12-24 09:56:08] INFO - 
+--- Logging in ---
+[2025-12-24 09:56:08] INFO - Entering user email
+[2025-12-24 09:56:08] INFO - Entering password
+[2025-12-24 09:56:08] INFO - Clicking on the Login button
+[2025-12-24 09:56:09] INFO - 
+--- Clicking on Customers option from the dashboard ---
+[2025-12-24 09:56:09] INFO - 
+--- Clicking on Customers sub option under Customers option ---
+[2025-12-24 09:56:10] INFO - 
+--- Adding/creating new customer details ---
+[2025-12-24 09:56:12] INFO - Added new customer details!
+[2025-12-24 09:56:12] INFO - 
+--- Logging out ---
+[2025-12-24 09:56:15] INFO - ************* End TC003_test_add_new_customer ***********
+[2025-12-24 10:01:55] INFO - ************* Start TC003_test_add_new_customer *********
+[2025-12-24 10:02:02] INFO - 
+--- Logging in ---
+[2025-12-24 10:02:02] INFO - Entering user email
+[2025-12-24 10:02:02] INFO - Entering password
+[2025-12-24 10:02:02] INFO - Clicking on the Login button
+[2025-12-24 10:02:03] INFO - 
+--- Clicking on Customers option from the dashboard ---
+[2025-12-24 10:02:03] INFO - 
+--- Clicking on Customers sub option under Customers option ---
+[2025-12-24 10:02:03] INFO - 
+--- Adding/creating new customer details ---
+[2025-12-24 10:02:06] INFO - Added new customer details!
+[2025-12-24 10:02:06] INFO - 
+--- Logging out ---
+[2025-12-24 10:02:08] INFO - ************* End TC003_test_add_new_customer ***********
+[2025-12-24 10:04:57] INFO - ************* Start TC003_test_add_new_customer *********
+[2025-12-24 10:05:04] INFO - 
+--- Logging in ---
+[2025-12-24 10:05:04] INFO - Entering user email
+[2025-12-24 10:05:04] INFO - Entering password
+[2025-12-24 10:05:04] INFO - Clicking on the Login button
+[2025-12-24 10:05:06] INFO - 
+--- Clicking on Customers option from the dashboard ---
+[2025-12-24 10:05:06] INFO - 
+--- Clicking on Customers sub option under Customers option ---
+[2025-12-24 10:05:06] INFO - 
+--- Adding/creating new customer details ---
+[2025-12-24 10:30:25] INFO - ************* Start TC003_test_add_new_customer *********
+[2025-12-24 10:30:32] INFO - 
+--- Logging in ---
+[2025-12-24 10:30:32] INFO - Entering user email
+[2025-12-24 10:30:32] INFO - Entering password
+[2025-12-24 10:30:32] INFO - Clicking on the Login button
+[2025-12-24 10:30:32] INFO - 
+--- Clicking on Customers option from the dashboard ---
+[2025-12-24 10:30:33] INFO - 
+--- Clicking on Customers sub option under Customers option ---
+[2025-12-24 10:30:34] INFO - 
+--- Adding/creating new customer details ---
+[2025-12-24 10:30:46] ERROR - Couldn't add new customer details!
+[2025-12-24 10:30:46] ERROR - TC003_test_add_new_customer failed!
+[2025-12-24 10:30:49] INFO - ************* End TC003_test_add_new_customer ***********
+[2025-12-24 10:31:31] INFO - ************* Start TC003_test_add_new_customer *********
+[2025-12-24 10:31:39] INFO - 
+--- Logging in ---
+[2025-12-24 10:31:39] INFO - Entering user email
+[2025-12-24 10:31:39] INFO - Entering password
+[2025-12-24 10:31:39] INFO - Clicking on the Login button
+[2025-12-24 10:31:40] INFO - 
+--- Clicking on Customers option from the dashboard ---
+[2025-12-24 10:31:40] INFO - 
+--- Clicking on Customers sub option under Customers option ---
+[2025-12-24 10:31:41] INFO - 
+--- Adding/creating new customer details ---
+[2025-12-24 10:31:43] INFO - Added new customer details!
+[2025-12-24 10:31:43] INFO - TC003_test_add_new_customer passed!
+[2025-12-24 10:31:43] INFO - 
+--- Logging out ---
+[2025-12-24 10:31:46] INFO - ************* End TC003_test_add_new_customer ***********

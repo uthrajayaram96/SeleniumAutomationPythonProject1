@@ -8,36 +8,40 @@
 
 """
 from selenium import webdriver
-import undetected_chromedriver as uc
 import pytest
 from pytest_metadata.plugin import metadata_key
+from seleniumbase import Driver
 
 
+# I am using SeleniumBase in order to bypass the cloudflare challenge - As of now only available for chrome
+# For Edge and firefox - I am not able to bypass the cloudflare
+# But with this structure I am keeping it for showing Cross Browsing Testing
 @pytest.fixture()
 def setup(browser):
     if browser == 'chrome':
-        driver = webdriver.Chrome()
-        # driver = uc.Chrome()
+        driver = Driver(uc=True)
     elif browser == 'edge':
-        driver = webdriver.Edge()
+        driver = Driver(browser=browser)
+        # driver = webdriver.Edge()
     elif browser == 'firefox':
-        driver = webdriver.Firefox()
+        driver = Driver(browser=browser)
+        # driver = webdriver.Firefox()
     else:
-        print('Wrong value passed to the browser argument')
-        driver = None
-    return driver
+        raise ValueError("Unsupported browser: " + browser)
+
+    return driver, browser
 
 
 # set up the CLI argument to receive the type of browser we need the Testcase to run
 def pytest_addoption(parser):
-    parser.addoption('--browser', default='chrome', help='You can run your testcases in any one of the browsers - '
-                                                         'chrome, firefox or edge')
+    parser.addoption('--browserArg', default='chrome', help='You can run your testcases in any one of the browsers - '
+                                                            'chrome, firefox or edge')
 
 
 # Gets the 'browser' value and ends it to the setup method
 @pytest.fixture()
 def browser(request):
-    return request.config.getoption('--browser')
+    return request.config.getoption('--browserArg')
 
 
 ################### PyTest HTML Report ##############################
@@ -51,7 +55,7 @@ def pytest_configure(config):
 
 
 # Hook for delete/modify  environment  info HTML Report
-@pytest.mark.optionalhook
+@pytest.hookimpl(optionalhook=True)
 def pytest_metadata(metadata):
     metadata.pop('JAVA_HOME', None)
     metadata.pop('Plugins', None)

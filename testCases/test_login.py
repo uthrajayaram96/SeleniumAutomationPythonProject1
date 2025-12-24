@@ -6,6 +6,7 @@ from pageObjects.LoginPage import LoginPage
 from utilities.getFilename import RenameFile
 from utilities.readProperties import ReadConfig
 from utilities.customLogging import Logging
+from seleniumbase import Driver
 
 
 class Test001Login:
@@ -15,8 +16,8 @@ class Test001Login:
     logger = Logging.generate_log()
 
     def test_homepage_title(self, setup):
-        self.logger.info('************* Start TC001_test_homepage_title *********')
-        self.driver = setup
+        self.logger.info('************* Start TC001.1_test_homepage_title *********')
+        self.driver, browser = setup
         self.driver.implicitly_wait(20)
         self.driver.get(self.base_url)
         if 'nopCommerce demo store. Login' == self.driver.title:
@@ -29,13 +30,19 @@ class Test001Login:
             assert False
 
         self.driver.quit()
-        self.logger.info('************* End TC001_test_homepage_title ***********')
+        self.logger.info('************* End TC001.1_test_homepage_title ***********')
 
     def test_login(self, setup):
-        self.logger.info('************* Start TC002_test_login *********')
-        self.driver = setup
+        self.logger.info('************* Start TC001.2_test_login *********')
+        self.driver, browser = setup
         self.driver.implicitly_wait(20)
-        self.driver.get(self.base_url)
+
+        # bypass the cloudflare challenge
+        if browser == 'chrome':
+            self.driver.uc_open_with_reconnect(self.base_url, 4)
+        else:
+            self.driver.get(self.base_url)
+
         assert 'nopCommerce demo store. Login' in self.driver.title
         lp = LoginPage(self.driver)
         self.logger.info('Entering user email')
@@ -44,8 +51,12 @@ class Test001Login:
         lp.enter_login_password(self.password)
         self.logger.info('Clicking on the Login button')
         lp.click_login_btn()
+
+        # bypass the cloudflare challenge
+        if browser == 'chrome':
+            self.driver.uc_gui_click_captcha()
         actual_title = self.driver.title
-        # time.sleep(20)
+
         if 'Dashboard / nopCommerce administration' == actual_title:
             print(self.driver.title)
             assert True
@@ -58,4 +69,4 @@ class Test001Login:
             assert False
 
         self.driver.quit()
-        self.logger.info('************* End TC002_test_login ***********')
+        self.logger.info('************* End TC001.2_test_login ***********')
